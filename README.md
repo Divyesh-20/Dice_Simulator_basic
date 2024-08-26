@@ -24,6 +24,9 @@ python dice_simulator.py
 Follow the prompts to roll the dice. Press y to roll again or n to exit.
 
 Example Output
+
+
+
 ![image](https://github.com/user-attachments/assets/ff3e87ca-61f9-4f2b-8bb8-bf6af9d1be79)
 
 
